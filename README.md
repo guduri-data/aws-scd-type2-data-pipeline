@@ -1,0 +1,1 @@
+# aws-scd-type2-data-pipeline
